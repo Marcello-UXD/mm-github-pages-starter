@@ -16,8 +16,6 @@ source: "http://ah_coo.tripod.com/bedtime_stories.htm"
 copyright-category: public-domain
 ---
 
-# The Gingerbread Man
-
 Once upon a time there was a little old woman and a little old man, and they lived all alone in a little old house.
 
 They hadn't any little girls or any little boys, at all. So one day, the little old woman made a boy out of gingerbread; she made him a chocolate jacket, and put cinnamon seeds in it for buttons; his eyes were made of fine, fat currants; his mouth was made of rose-colored sugar; and he had a gay little cap of orange sugar-candy. When the little old woman had rolled him out, and dressed him up, and pinched his gingerbread shoes into shape, she put him in a pan; then she put the pan in the oven and shut the door; and she thought, "Now I shall have a little boy of my own."
