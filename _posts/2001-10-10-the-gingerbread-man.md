@@ -7,7 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
-layout: splash
+layout: home
 permalink: /the-gingerbread-man/
 age-min: 3
 age-max: 10
