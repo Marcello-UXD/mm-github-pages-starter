@@ -1,12 +1,10 @@
 ---
 title: "The Gingerbread Man"
-date: 2019-12-28T13:45:30-08:00
+date: 2019-12-27T12:45:30-08:00
 categories:
-  - Classic
+  - Classic Stories
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Classic Stories
 layout: home
 permalink: /the-gingerbread-man/
 age-min: 3
